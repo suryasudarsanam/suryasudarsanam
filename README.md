@@ -10,17 +10,6 @@
 
 # 🚀 Featured Projects
 
-## 🏠 HouseHunt Rental Platform
-A MERN stack based rental home platform with location-based house discovery, Firebase authentication, and admin management features.
-
-### Features:
-- User Authentication using Firebase
-- Location-based house search
-- Admin dashboard for managing listings
-- Responsive UI and modern design
-
----
-
 ## 🎙️ Voice Terminal AI Agent
 An AI-powered voice-controlled coding assistant that performs terminal operations using speech recognition and automation.
 
@@ -64,7 +53,16 @@ A collaborative frontend development project built together with Roshni, focused
 - Frontend optimization
 
 ---
+## 🏠 HouseHunt Rental Platform
+A MERN stack based rental home platform with location-based house discovery, Firebase authentication, and admin management features.
 
+### Features:
+- User Authentication using Firebase
+- Location-based house search
+- Admin dashboard for managing listings
+- Responsive UI and modern design
+  
+---
 # 💻 Tech Stack
 
 ### Frontend
@@ -90,17 +88,6 @@ A collaborative frontend development project built together with Roshni, focused
 - Git
 - GitHub
 - VS Code
-- Postman
-
----
-
-# 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=suryasudarsanam&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suryasudarsanam&layout=compact&theme=tokyonight)
-
----
 
 # 📫 Connect With Me
 
