@@ -106,7 +106,7 @@ A collaborative frontend development project built together with Roshni, focused
 
 - 💼 LinkedIn: https://www.linkedin.com/in/surya-sudarsanam
 - 💻 GitHub: https://github.com/suryasudarsanam
-- 📧 Email: your-email@example.com
+- 📧 Email: suryasudarsanam456@gmail.com
 
 ---
 
